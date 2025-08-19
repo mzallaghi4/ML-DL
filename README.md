@@ -1,75 +1,28 @@
-# Practical Python Learning
-Learn Python Programming Step by Step.
-Python course with hands-on exercises and solutions.
-
-Table of contents
-=================
-
-<!--ts-->
-* [Course Description](#course-description)
-* [Environment](#environment)
-* [Content List](#content-list)
-* [About the Author](#about-the-author)
-<!--te-->
-
-## Course Description
-
-This Python course is for beginners and will introduce fundamental programming concepts of Python programming language.
---Hello, World!
-
---Data Types and Variables
-
---Operators
-
---String Formatting and Operations
-
---Conditions and Loops
-
---Functions
-
---Classes and Objects
-
---Dictionaries
+# Practical Machine and Deep Learning
+A collection of Machine Learning and Deep Learning projects, tutorials, and experiments.
 
 
+### Description
+This project covers a wide range of topics including supervised and unsupervised learning, neural networks, reinforcement learning , natural language processing, and more
+
+Goal is to build a strong foundation in ML/DL and also implement state-of-the-art models
+
+- ML models: Regression, Classification, Clustering
+
+- Deep Learning models with TensorFlow and PyTorch
+
+📊 Jupyter notebooks with visualizations and explanations
 
 
-## Environment
-=================
-### Set up Python along with the IDE VS Code
-1-Install Python for your operating system from  https://www.python.org/downloads/
-
-2-Install VS Code from https://code.visualstudio.com/download 
-
-3-Install the Python Extension for VS Code
-
-4-Install the required python packages:
-
-      pip install numpy
-      pip install scipy
-      pip install matplotlib
-
-
-
-
-## Content List
-=================
-### Python Lecture Notes
- Python Basics
- Python Libraries
-
-
-### Python Tutorial Notebooks
- Python Basics
+### Python Libraries
  Numpy
+ Pandas
  Scipy
  Matplotlib
-
-### Python Tutorial Notebooks
- Python Basics
- Numpy
- Scipy
- Matplotlib
+ Scikit-learn
+ Tensorflow
+ Pytorch
+ 
 
 
 ## About the author
