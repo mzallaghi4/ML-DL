@@ -15,13 +15,13 @@ Goal is to build a strong foundation in ML/DL and also implement state-of-the-ar
 
 
 ### Python Libraries
- Numpy
- Pandas
- Scipy
- Matplotlib
- Scikit-learn
- Tensorflow
- Pytorch
+ - Numpy
+ - Pandas
+ - Scipy
+ - Matplotlib
+ - Scikit-learn
+ - Tensorflow
+ - Pytorch
  
 
 
